@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# PickPack_React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Сайт получения токена для доступа в приложение PickPack 
+
 
 ## Available Scripts
 
